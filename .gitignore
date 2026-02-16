@@ -1,0 +1,15 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Junk
+*.bak
+NUL
+
+# Demo project
+demo_project/
